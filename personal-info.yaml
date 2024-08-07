@@ -1,0 +1,22 @@
+person:
+    name: Loveth
+    age: 15
+    contact:
+      Email: lovethobichere01@gmail.com
+      Phone no: 08170000
+    linkedIn Id: https://www.linkedin.com/in/loveth-obichere
+    Github: LovethOmah
+    address:
+      State: Lagos
+    education:
+      Degree: B.sc 
+      Professional skill: Cloud & DevOps Engineer
+    hobbies:
+      - Travelling 
+      - Movies
+      - Kayaking
+    favourite_food:
+      -Rice
+      -Dodo
+      -Amala
+  
